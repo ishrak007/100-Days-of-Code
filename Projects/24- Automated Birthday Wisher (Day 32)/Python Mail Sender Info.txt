@@ -1,0 +1,8 @@
+Mail Sender Pass:
+zruq cpby ftax tybm
+
+Add a port number by changing your code to this:
+smtplib.SMTP("smtp.gmail.com", port=587)
+
+dummy mail: testmailkabir137@gmail.com
+dummy mail pass: ABCD1234()@!
